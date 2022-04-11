@@ -5,5 +5,5 @@
 ####    - Stacked bar chart ( + by resource)
 
 # setup :
-####    - pip install panel
-####    - pip install hvplot
+####    - `pip install panel`
+####    - `pip install hvplot`
