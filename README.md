@@ -1,4 +1,4 @@
-## Create an interactive visualization dashboard in Python to show the quantity of CO2 by contient:
+## Create an interactive visualization dashboard in Python to show the quantity of CO2 by continent:
 ####    - Line chart
 ####    - Table
 ####    - Scatter plot
